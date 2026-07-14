@@ -1,4 +1,4 @@
-# bot-python
+# bot-python🤖
 Analisys, Training and Testing with python.
 
 python 3.8.0
