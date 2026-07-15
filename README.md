@@ -1,7 +1,7 @@
 # bot-python🤖
 Analisys, Training and Testing with python.
-
-python 3.8.0
+Poetry:   
+Version: python 3.8.0
 Create a venv
 python - m venv nameofvenv
 
